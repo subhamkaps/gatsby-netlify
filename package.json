@@ -15,8 +15,16 @@
   },
   "license": "0BSD",
   "dependencies": {
+    "bootstrap": "^4.5.3",
     "gatsby": "^2.26.1",
+    "gatsby-plugin-react-helmet": "^3.7.0",
+    "gatsby-source-filesystem": "^2.8.0",
+    "gatsby-source-wordpress": "^3.8.0",
+    "gatsby-transformer-remark": "^2.13.0",
+    "innertext": "^1.0.3",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0"
   }
 }
